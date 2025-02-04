@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mathijs Moleman.
 - 👀 I’m interested in playing games and making them.
 - 🌱 I’m currently learning at Saxion CMGT.
-- 📫 How to reach me  
+- 📫 How to reach me  mathijsmoleman.com
 - 😄 Pronouns: He/Him.
 
 
