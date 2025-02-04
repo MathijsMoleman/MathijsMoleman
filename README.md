@@ -11,3 +11,5 @@ Project Frontiers is a school project where we had to make a game with a group o
 This is our itch.io page: https://riigzy.itch.io/ciphered-chains
 
 This Code I made to make a pause menu in the game that freezes time and let you click on the buttons.
+![Schermafbeelding 2025-02-04 204245](https://github.com/user-attachments/assets/c15623c3-8aeb-4112-b10c-60108f72dafa)
+![Schermafbeelding 2025-02-04 204310](https://github.com/user-attachments/assets/b63c0a92-1c9a-44d3-914e-631cd546dd7b)
